@@ -18,6 +18,7 @@ main{
     color:white;
     padding: 10px;
     max-width: 400px;
+    margin: 0 auto;
 }
 .card .frontal .number{
     color: white !important;
